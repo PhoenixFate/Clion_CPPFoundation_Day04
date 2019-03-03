@@ -36,7 +36,7 @@ void test701()
     p2.show();
 }
 
-int main()
+int main7()
 {
     test701();
     return 0;
